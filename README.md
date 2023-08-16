@@ -8,7 +8,7 @@
 - Python Libraries used
 - Conclusions
 - Acknowledgement
--
+
 
 ## Problem Statement
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
@@ -33,12 +33,18 @@ You are required to model the demand for shared bikes with the available indepen
 - sklearn - 1.3.0
 - statsmodel-0.11.0
 
-##Acknowledgements
-https://www.kaggle.com/
-https://seaborn.pydata.org/
-https://pandas.pydata.org/
-https://learn.upgrad.com/
-https://scikit-learn.org/
+## Acknowledgements
+- https://www.kaggle.com/
+- https://seaborn.pydata.org/
+- https://pandas.pydata.org/
+- https://learn.upgrad.com/
+- https://scikit-learn.org/
 
 ## Contact
 Created by [@pragya2611] feel free to contact us!
+
+
+
+
+
+
