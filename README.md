@@ -41,7 +41,7 @@ You are required to model the demand for shared bikes with the available indepen
 - https://scikit-learn.org/
 
 ## Contact
-Created by [@pragya2611] feel free to contact us!
+Created by [@pragya2611] feel free to contact me!
 
 
 
